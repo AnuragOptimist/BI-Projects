@@ -1,2 +1,2 @@
 # BI-Projects
-All the tried and practice dashboards and reports are being showcased here
+All the tried and practiced dashboards and reports are being showcased here
